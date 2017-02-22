@@ -3,6 +3,9 @@
 
 - title: "Welcome"
   href: "/welcome.html"
+  
+- title: "Join"
+  href: "/join.html"
 
 - title: "About"
   subcategories:
