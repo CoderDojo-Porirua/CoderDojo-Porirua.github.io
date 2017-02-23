@@ -16,8 +16,8 @@ Please contact us if you do not receive any email confirmation from Meetup about
 
 Registration overview
 1. [Sign up for Meetup](https://secure.meetup.com/register/) if necessary. Note this is completely separate from the CoderDojo Porirua registration.
-2. RSVP to the next session.
-3. Complete the CoderDojo Porirua Registration form for each coder.
+2. [RSVP to the next session.](http://www.meetup.com/CoderDojoPorirua/)
+3. Complete the [CoderDojo Porirua Registration form](https://docs.google.com/forms/d/1xeTIbR_vYanQN4bgTHVP2yntHb7BZBr4z0D8fX4Hnro/viewform) for each coder.
 4. Receive confirmation of attendance or waitlist.
 
 RSVPs for each session open up at the start of the previous session – this is to try and ensure that if a session is full, that coders who didn’t attend that session get a chance to sign up for the next one.
