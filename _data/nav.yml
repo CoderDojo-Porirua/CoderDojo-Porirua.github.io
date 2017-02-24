@@ -7,6 +7,9 @@
 - title: "Join"
   href: "/join.html"
 
+- title: "Resources"
+  href: "/resources.html"
+  
 - title: "About"
   subcategories:
     - subtitle: "About Us"
