@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-How to Join  
+# How to Join  
 We use Meetup to organise our sessions.
 
 Meetup users must be 18+. Parents or caregivers sign up for Meetup, and join the CoderDojo Porirua group. You will need to complete a CoderDojo Porirua registration form for each child.
@@ -14,7 +14,7 @@ You should receive an email confirmation from Meetup stating that you are attend
 
 Please contact us if you do not receive any email confirmation from Meetup about your RSVP.
 
-Registration overview
+# Registration overview
 1. [Sign up for Meetup](https://secure.meetup.com/register/) if necessary. Note this is completely separate from the CoderDojo Porirua registration.
 2. [RSVP to the next session.](http://www.meetup.com/CoderDojoPorirua/)
 3. Complete the [CoderDojo Porirua Registration form](https://docs.google.com/forms/d/1xeTIbR_vYanQN4bgTHVP2yntHb7BZBr4z0D8fX4Hnro/viewform) for each coder.
