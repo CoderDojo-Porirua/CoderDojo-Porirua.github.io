@@ -13,5 +13,5 @@ Chromebook: Log in with your Google Account.
 Or bring your own device
 
 
-Wireless: Coderdojo (no password)
+Wireless: Coderdojo (no password)  
 Linewise: codadojo, Password: codadojo2016
