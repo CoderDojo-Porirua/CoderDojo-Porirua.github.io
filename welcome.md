@@ -7,7 +7,7 @@ title: Welcome
 
 Porirua College laptops
 
-Windows: Username: Codadojo, Password: Welcome1
+Windows: Username: Codadojo, Password: Welcome1  
 Chromebook: Log in with your Google Account.
 
 Or bring your own device
