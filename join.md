@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Join
 ---
 
 # How to Join  
@@ -10,7 +10,7 @@ Meetup users must be 18+. Parents or caregivers sign up for Meetup, and join the
 
 To attend a session, you need to RSVP for yourself, and add your child(ren) as guests (+1 etc.). Parents or caregivers must attend all sessions with their child(ren).
 
-You should receive an email confirmation from Meetup stating that you are attending our session. If our session is full, you should receive an email stating that you are on our waitlist. Sessions are very busy at the moment. If you turn up to a session without a confirmation of attendance, we can not guarantee a spot.
+You should receive an email confirmation from Meetup stating that you are attending our session. If our session is full, you should receive an email stating that you are on our waitlist.
 
 Please contact us if you do not receive any email confirmation from Meetup about your RSVP.
 
