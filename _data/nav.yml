@@ -11,7 +11,7 @@
   href: "/resources.html"
   
 - title: "About"
-  href: "/about.html"
+  href: "/about/about.html"
   subcategories:
     - subtitle: "Where are we? "
       subhref: "/where.html"
