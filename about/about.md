@@ -5,13 +5,13 @@ title: About
 
 # About CoderDojo Porirua
 
-> What:  
+> __What:__  
 > Free, fun programming sessions for kids  
-> Where:  
+> __Where:__  
 > Porirua College  
-> When:  
+> __When:__  
 > Sundays, 3pm  
-> How:  
+> __How:__  
 > Sign up on MeetUp
 
 ## What is CoderDojo?
