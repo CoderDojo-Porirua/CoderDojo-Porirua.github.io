@@ -3,4 +3,8 @@ layout: default
 title: Resources
 ---
 
-Various things to do will go here.
+# Block based programming
+Code.org  
+Scratch
+
+# Starting with text
