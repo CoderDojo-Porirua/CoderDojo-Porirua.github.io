@@ -10,4 +10,4 @@ title: Code.org
 This selection of courses is a great starting point (the links below allow you to join the Porirua CoderDojo group at code.org):
 
 ## Early readers
-Start with the [Hour of Code Course 1](http://learn.code.org/join/QVUYOC)
+![Angry bird](AngryBirds-150x150.png) Start with the [Hour of Code Course 1](http://learn.code.org/join/QVUYOC)
