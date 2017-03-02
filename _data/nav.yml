@@ -9,6 +9,9 @@
 
 - title: "Resources"
   href: "/resources/resources.html"
+  subcategories:
+    - subtitle: "Code.org"
+      subhref: "/resources/codeorg.html"
   
 - title: "About"
   href: "/about/about.html"
