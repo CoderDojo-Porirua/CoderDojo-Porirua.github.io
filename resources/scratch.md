@@ -3,7 +3,7 @@ layout: default
 title: Scratch
 ---
 
-![Scratch](images/scratch.png)
+![Scratch](images/scratch.png)  
 Scratch is a great way to try out programming using blocks (like code.org), and allows you to design and move characters around on screen to create games and animations.
 
 
