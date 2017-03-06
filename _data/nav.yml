@@ -12,6 +12,8 @@
   subcategories:
     - subtitle: "Code.org"
       subhref: "/resources/codeorg.html"
+    - subtitle: "Scratch"
+      subhref: "/resources/scratch.html"
     - subtitle: "Code Combat"
       subhref: "/resources/codecombat.md"
   
