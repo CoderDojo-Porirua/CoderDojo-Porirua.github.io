@@ -15,7 +15,7 @@
     - subtitle: "Scratch"
       subhref: "/resources/scratch.html"
     - subtitle: "Code Combat"
-      subhref: "/resources/codecombat.md"
+      subhref: "/resources/codecombat.html"
   
 - title: "About"
   href: "/about/about.html"
