@@ -103,12 +103,13 @@ blockquote {
 }
 
 #main_nav {
-  ul {
-	background: white;
-	float: left;
-	-webkit-transition: .5s;
-    transition: .5s;
-  }
+	ul {
+		background: white;
+		float: left;
+		-webkit-transition: .5s;
+		transition: .5s;
+		z-index: 10;
+	}
 	
 	li {
 		float: left;
