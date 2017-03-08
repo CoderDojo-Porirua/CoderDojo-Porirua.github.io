@@ -25,30 +25,32 @@
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
       </div>
     </header>
-    <nav id="main_nav">
-      <ul>
-        {% for nav in site.data.nav %}
-          {% if nav.subcategories != null %}
-            <li>
-              <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }} ▼</a>
-              <ul>
-              {% for subcategory in nav.subcategories %}
-                <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
-              {% endfor %}
-              </ul>
-            </li>
-          {% elsif nav.title == page.title %}
-             <li class="active">
-               <a href="{{ nav.url }}">{{ nav.title }}</a>
-             </li>
-          {% else %} 
-            <li class="menu-item">
-              <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
-            </li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </nav> 
+    <div>
+      <nav id="main_nav">
+        <ul>
+          {% for nav in site.data.nav %}
+            {% if nav.subcategories != null %}
+              <li>
+                <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }} ▼</a>
+                <ul>
+                {% for subcategory in nav.subcategories %}
+                  <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                {% endfor %}
+                </ul>
+              </li>
+            {% elsif nav.title == page.title %}
+               <li class="active">
+                 <a href="{{ nav.url }}">{{ nav.title }}</a>
+               </li>
+            {% else %} 
+              <li class="menu-item">
+                <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
