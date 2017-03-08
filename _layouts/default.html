@@ -34,18 +34,24 @@
                 <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }} ▼</a>
                 <ul>
                 {% for subcategory in nav.subcategories %}
-                  <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                  {% if subcategory.subsubcategories != null %}
+                    <li>
+                      <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }} ▼</a>
+                      <ul>
+                      {% for subsubcategory in subcategory.subsubcategories %}
+                        <li><a href="{{ site.url }}{{ subsubcategory.subsubhref }}">{{ subsubcategory.subsubtitle }}</a></li>  
+                      {% endfor %}
+                      </ul>
+                  {% else %}
+                    <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                  {% endif %}
                 {% endfor %}
                 </ul>
               </li>
             {% elsif nav.title == page.title %}
-               <li class="active">
-                 <a href="{{ nav.url }}">{{ nav.title }}</a>
-               </li>
+               <li class="active"><a href="{{ nav.url }}">{{ nav.title }}</a></li>
             {% else %} 
-              <li class="menu-item">
-                <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
-              </li>
+              <li><a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a></li>
             {% endif %}
           {% endfor %}
         </ul>
