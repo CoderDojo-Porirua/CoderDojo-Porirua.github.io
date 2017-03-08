@@ -25,8 +25,8 @@
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
       </div>
     </header>
-    <div id="container">
-      <nav id="main_nav">
+    <div id="main_nav">
+      <nav>
         <ul>
           {% for nav in site.data.nav %}
             {% if nav.subcategories != null %}
