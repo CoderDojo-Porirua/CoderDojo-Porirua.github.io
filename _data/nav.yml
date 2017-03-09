@@ -16,6 +16,11 @@
       subhref: "/resources/scratch.html"
     - subtitle: "Code Combat"
       subhref: "/resources/codecombat.html"
+    - subtitle: "Minecraft"
+      subhref: "/resources/minecraft.html"
+      subsubcategories:
+        - subsubtitle: "Make a mod"
+          subsubhref: "/resources/makeamod.html"
   
 - title: "About"
   href: "/about/about.html"
