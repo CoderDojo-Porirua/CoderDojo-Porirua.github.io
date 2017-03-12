@@ -19,6 +19,8 @@
     - subtitle: "Minecraft"
       subhref: "/resources/minecraft.html"
       subsubcategories:
+        - subsubtitle: "Tynker modding"
+          subsubhref: "/resources/tynkerminecraft.html"
         - subsubtitle: "Make a mod"
           subsubhref: "/resources/makeamod.html"
   
