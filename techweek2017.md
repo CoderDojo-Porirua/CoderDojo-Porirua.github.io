@@ -26,17 +26,20 @@ You bring:
 
 We'll bring:
 
-- Pizza :pizza: and soft drinks.
+- Pizza and soft drinks.
+- Spot prizes (TBC).
 
 Tickets can be obtained from [Eventfinda](https://www.eventfinda.co.nz/2017/introduction-to-coding-with-coderdojo-at-whitireia/porirua-mana)
 
 Watch this space for more details, coming soon.
 
-## Sponsors:
+## Thanks to our Sponsors:
 
 ![PCC logo](http://www.pcc.govt.nz/images/website/pcc-logo.jpg)
 
-[Porirua City Council](http://pcc.govt.nz/) - Food & drink, prizes and publicity
+[Porirua City Council](http://pcc.govt.nz/) - Food & drink, and prizes
+
+
 
 ![Whitireia logo](http://whitireia.ac.nz/_layouts/whitireiaresources/core/images/logo.png)
 
