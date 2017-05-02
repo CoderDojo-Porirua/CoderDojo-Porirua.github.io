@@ -19,6 +19,25 @@ Event dates:
 - Thursday 11 May 2017, 4pm - 6pm.
 - Friday 12 May 2017, 4pm - 6pm.
 
+You bring:
+
+- A laptop if you have one.
+- An Android mobile phone, if you have one and would like to use App Inventor.
+
+We'll bring:
+
+- Pizza :pizza: and soft drinks.
+
 Tickets can be obtained from [Eventfinda](https://www.eventfinda.co.nz/2017/introduction-to-coding-with-coderdojo-at-whitireia/porirua-mana)
 
 Watch this space for more details, coming soon.
+
+## Sponsors:
+
+![PCC logo](http://www.pcc.govt.nz/images/website/pcc-logo.jpg)
+
+[Porirua City Council](http://pcc.govt.nz/) - Food & drink, prizes and publicity
+
+![Whitireia logo](http://whitireia.ac.nz/_layouts/whitireiaresources/core/images/logo.png)
+
+[Whitireia](http://www.whitireia.ac.nz/Pages/home.aspx) - Venue and computing resources
