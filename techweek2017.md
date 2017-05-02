@@ -3,9 +3,10 @@ layout: default
 title: Tech Week 2017
 ---
 
+# Learn to code with CoderDojo at Whitireia!  
+
 Interested in coding, but not sure how to tell an Android from an Arduino? Keen to get started with hacking, but unsure where to start? Then our **free 2 hour introduction to Coding** sessions are for you!
 
-# Learn to code with CoderDojo at Whitireia!  
 As part of [Tech Week 2017](http://techweek.co.nz/), and in association with [Whitireia](http://www.whitireia.ac.nz/Pages/home.aspx) and [Porirua City Council](http://pcc.govt.nz/), we're running two free Introduction to Coding sessions aimed at Year 10-13's.
 
 Stuff we will look at:
