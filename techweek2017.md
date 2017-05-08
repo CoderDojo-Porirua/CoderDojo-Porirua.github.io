@@ -27,7 +27,7 @@ You bring:
 We'll bring:
 
 - Pizza and soft drinks.
-- Spot prizes (TBC).
+- Spot prizes ([Raspberry Pi Zero W's](https://www.raspberrypi.org/blog/raspberry-pi-zero-w-joins-family/))!
 
 Tickets can be obtained from [Eventfinda](https://www.eventfinda.co.nz/2017/introduction-to-coding-with-coderdojo-at-whitireia/porirua-mana)
 
