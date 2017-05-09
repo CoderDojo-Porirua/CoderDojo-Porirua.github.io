@@ -5,13 +5,15 @@ title: Tech Week 2017
 
 # What's your Superpower? Learn to code with CoderDojo at Whitireia!  
 
+![Superpower](resources/images/CoderDojo_superpower_teenager.png)  
+
 Interested in coding, but not sure how to tell an Android from an Arduino? Keen to get started with hacking, but unsure where to start? Then our **free 2 hour introduction to Coding** sessions are for you!
 
 As part of [Tech Week 2017](http://techweek.co.nz/), and in association with [Whitireia](http://www.whitireia.ac.nz/Pages/home.aspx) and [Porirua City Council](http://pcc.govt.nz/), we're running two free Introduction to Coding sessions aimed at Year 10-13's.
 
 Stuff we will look at:
 
-- Get started on an introduction to programming, creating a simple game, deploying a live website using Jekyll, create a Flappy Bird clone, or start learning python!
+- Get started on an introduction to programming, creating a simple 2 player game, deploying a live website using Jekyll, create a Flappy Bird clone, or start learning python!
 - Have a go with [MIT's App Inventor 2](http://appinventor.mit.edu/explore/ai2/beginner-videos.html), and develop and install an app on an Android phone.
 
 Event dates:
