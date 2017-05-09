@@ -3,7 +3,8 @@ layout: default
 title: Tech Week 2017
 ---
 
-# What's your Superpower? Learn to code with CoderDojo at Whitireia!  
+# What's your Superpower? 
+## Learn to code with CoderDojo at Whitireia!  
 
 ![Superpower](resources/images/CoderDojo_superpower_teenager.png)  
 
@@ -29,7 +30,7 @@ You bring:
 We'll bring:
 
 - Pizza and soft drinks.
-- We've got some ([tiny computers](https://www.raspberrypi.org/blog/raspberry-pi-zero-w-joins-family/)) give to away to participants!
+- We've got some [tiny computer](https://www.raspberrypi.org/blog/raspberry-pi-zero-w-joins-family/) spot prizes to give to away to 4 lucky participants - [register](https://www.eventfinda.co.nz/2017/introduction-to-coding-with-coderdojo-at-whitireia/porirua-mana) to be in with a chance to win!
 
 Tickets can be obtained from [Eventfinda](https://www.eventfinda.co.nz/2017/introduction-to-coding-with-coderdojo-at-whitireia/porirua-mana)
 
