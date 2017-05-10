@@ -18,7 +18,9 @@ title: Tech Week 2017 - On the day
 - Game development:
   - [Flappy Bird](https://studio.code.org/flappy/1) (Beginner, graphical)
   - [2 player game](https://www.codeavengers.com/javascript/100) (Beginner, JavaScript)
-
+- [MIT App Inventor](http://ai2.appinventor.mit.edu/) (Will request a Google account to sign in, and require your to agree to terms and conditions)
+  - Setup [MIT AI2 Companion App](http://appinventor.mit.edu/explore/ai2/setup-device-wifi.html) on your phone.
+  - Download [QR Droid](https://play.google.com/store/apps/details?id=la.droid.qr&hl=en)
 
 ## Thanks to our Sponsors:
 
