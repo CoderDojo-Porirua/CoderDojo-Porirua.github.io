@@ -17,6 +17,8 @@ Stuff we will look at:
 - Get started on an introduction to programming, creating a simple 2 player game, deploying a live website using Jekyll, create a Flappy Bird clone, or start learning python!
 - Have a go with [MIT's App Inventor 2](http://appinventor.mit.edu/explore/ai2/beginner-videos.html), and develop and install an app on an Android phone.
 
+[On the day](techweek2017-on-the-day)
+
 Event dates:
 
 - Thursday 11 May 2017, 4pm - 6pm.
