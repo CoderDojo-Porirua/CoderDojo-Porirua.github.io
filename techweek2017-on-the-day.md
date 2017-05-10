@@ -30,13 +30,13 @@ title: Tech Week 2017 - On the day
 
 ## Thanks to our Sponsors:
 
-![PCC logo](http://www.pcc.govt.nz/images/website/pcc-logo.jpg)
+[![PCC logo](http://www.pcc.govt.nz/images/website/pcc-logo.jpg)](http://pcc.govt.nz/)
 
 [Porirua City Council](http://pcc.govt.nz/) - Food & drink, and prizes
 
 
 
-![Whitireia logo](http://whitireia.ac.nz/_layouts/whitireiaresources/core/images/logo.png)
+[![Whitireia logo](http://whitireia.ac.nz/_layouts/whitireiaresources/core/images/logo.png)](http://www.whitireia.ac.nz/Pages/home.aspx)
 
 [Whitireia](http://www.whitireia.ac.nz/Pages/home.aspx) - Venue and computing resources
 
