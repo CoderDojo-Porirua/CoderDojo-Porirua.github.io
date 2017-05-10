@@ -9,4 +9,4 @@ Coder Dojo is a free club where kids can learn to code. All children are welcome
 
 
 [![Superpower](resources/images/CoderDojo_superpower_teenager.png)](/techweek2017)
-[Tech Week 2017](/techweek2017) <--- Click here!
+[Tech Week 2017](/techweek2017.md) <--- Click here!
