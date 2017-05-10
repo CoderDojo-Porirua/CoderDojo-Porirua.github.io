@@ -11,6 +11,12 @@ title: Tech Week 2017 - On the day
 
 ## Event outline:
 
+- 16:00 - 16:15 - Introduction, health & safety etc
+- 16:15 - 17:00 - Session 1
+- 17:00 - 17:15 - Pizza & drinks
+- 17:15 - 17:45 - Session 2
+- 17:45 - 18:00 - Wrap up, Spot prizes, close
+
 ## Activities:
 - [Code Avengers Hour of Code](https://www.codeavengers.com/courses/hour-of-code)
 - [Using Jekyll to deploy a website](https://www.codecademy.com/learn/deploy-a-website) - create and publish a website before 6pm!
