@@ -28,6 +28,7 @@ title: Tech Week 2017 - On the day
   - Setup [MIT AI2 Companion App](http://appinventor.mit.edu/explore/ai2/setup-device-wifi.html) on your phone.
   - Download [QR Droid](https://play.google.com/store/apps/details?id=la.droid.qr&hl=en)
   - Enable [Developer Mode](https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/) on your phone.
+  - Allow installation from *Unknown Sources*. **Note - you may like to switch this off after you're done testing**. 
 
 ## Thanks to our Sponsors:
 
