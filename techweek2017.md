@@ -34,11 +34,13 @@ We'll bring:
 
 Tickets can be obtained from [Eventfinda](https://www.eventfinda.co.nz/2017/introduction-to-coding-with-coderdojo-at-whitireia/porirua-mana)
 
-Location:
-E Block Whitireia Main Campus Wineera Drive Elsdon
-![Map](resources/images/Map.png)
+## Location:
 
-([Campus map](resources/Porirua_Campus_Map_2013.pdf))
+E Block Whitireia Main Campus Wineera Drive Elsdon
+[![Map](resources/images/Map.png)](resources/images/Map.png)
+[(Click for larger copy)](resources/images/Map.png)
+
+([Campus map](http://www.whitireia.ac.nz/about/Documents/Porirua_Campus_Map_2013.pdf))
 
 
 ## Thanks to our Sponsors:
