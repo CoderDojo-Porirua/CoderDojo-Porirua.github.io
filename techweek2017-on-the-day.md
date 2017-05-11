@@ -7,7 +7,8 @@ title: Tech Week 2017 - On the day
 
 ## Wireless:
 
-* TBC *
+- Wireless network: ```Whiti-BYOD```
+- Wireless password: Welcome123
 
 ## Event outline:
 
