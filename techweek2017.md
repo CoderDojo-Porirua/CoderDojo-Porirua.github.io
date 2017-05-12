@@ -10,6 +10,8 @@ title: Tech Week 2017
 
 Interested in coding, but not sure how to tell an Android from an Arduino? Keen to get started with hacking, but unsure where to start? Then our **free 2 hour introduction to Coding** sessions are for you!
 
+## Tickets can be obtained from [Eventfinda](https://www.eventfinda.co.nz/2017/introduction-to-coding-with-coderdojo-at-whitireia/porirua-mana)
+
 As part of [Tech Week 2017](http://techweek.co.nz/), and in association with [Whitireia](http://www.whitireia.ac.nz/Pages/home.aspx) and [Porirua City Council](http://pcc.govt.nz/), we're running two free Introduction to Coding sessions aimed at Year 10-13's.
 
 Stuff we will look at:
@@ -33,8 +35,6 @@ We'll bring:
 
 - Pizza and soft drinks.
 - We've got some [tiny computer](https://www.raspberrypi.org/blog/raspberry-pi-zero-w-joins-family/) spot prizes to give to away to 4 lucky participants - [register](https://www.eventfinda.co.nz/2017/introduction-to-coding-with-coderdojo-at-whitireia/porirua-mana) to be in with a chance to win!
-
-Tickets can be obtained from [Eventfinda](https://www.eventfinda.co.nz/2017/introduction-to-coding-with-coderdojo-at-whitireia/porirua-mana)
 
 ## Location:
 
