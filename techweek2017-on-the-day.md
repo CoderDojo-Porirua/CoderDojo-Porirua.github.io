@@ -5,6 +5,8 @@ title: Tech Week 2017 - On the day
 
 # Welcome to Learn to code with CoderDojo at Whitireia!  
 
+## https://giant-ant.glitch.me/update?name=<yourname>&lat=<lat>&lon=<lon>
+
 ## Wireless:
 
 - Wireless network: ```Whiti-BYOD```
