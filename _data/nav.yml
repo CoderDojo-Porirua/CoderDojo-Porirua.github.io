@@ -23,7 +23,11 @@
           subsubhref: "/resources/tynkerminecraft.html"
         - subsubtitle: "Make a mod"
           subsubhref: "/resources/makeamod.html"
-  
+    - subtitle: "HackThisSite"
+      subhref: "/resources/hackthissite.html"
+    - subtitle: "App Inventor"
+      subhref: "/resources/mitAppInventor.html"
+      
 - title: "About"
   href: "/about/about.html"
   subcategories:
