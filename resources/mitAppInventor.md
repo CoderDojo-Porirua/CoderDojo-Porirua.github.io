@@ -14,7 +14,8 @@ There is a guide to [getting started here](http://appinventor.mit.edu/explore/ge
 
 If you want to try something different, here's an idea for another project.  The plan is to create an app that will stop someone from taking your phone, and if it does get taken then keep track of it.
 
-1. Create a new project
+1. Create a new project.
+2. Skip the survey.
 2. Add a Button, and a Text to speech component (from Media)
 3. Add some code to the button to say something when the button is pressed.  This demonstrates the speech setup.
 
