@@ -16,8 +16,10 @@ If you want to try something different, here's an idea for another project.  The
 
 1. Create a new project.
 2. Skip the survey.
-2. Add a Button, and a Text to speech component (from Media)
-3. Add some code to the button to say something when the button is pressed.  This demonstrates the speech setup.
+
+###Speaking a warning when someone picks up the phone###
+1. Add a Button, and a Text to speech component (from Media)
+2. Add some code to the button to say something when the button is pressed.  This demonstrates the speech setup.
 
 4. Now Add an Accelerometer (from Sensors), and set it up to report its value to the button text
 
