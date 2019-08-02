@@ -3,7 +3,7 @@
 
 - title: "Welcome"
   href: "/welcome.html"
-  
+
 - title: "Join"
   href: "/join.html"
 
@@ -27,7 +27,9 @@
       subhref: "/resources/hackthissite.html"
     - subtitle: "App Inventor"
       subhref: "/resources/mitAppInventor.html"
-      
+    - subtitle: "Useful URLs"
+      subhref: "/resources/usefulURLs.html"
+
 - title: "About"
   href: "/about/about.html"
   subcategories:

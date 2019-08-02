@@ -15,3 +15,9 @@ The navigation is controlled by the _data/nav.yml file
 These can be added to the main repository, and will be reflected into the website with the same path as the files and folders used.
 
 Pages can be authored in either html (in a .html file), or markdown (specifically [kramdown](https://kramdown.gettalong.org/quickref.html), in a .md file)
+
+# To run locally
+```
+bundle install
+bundle exec jekyll serve
+```
