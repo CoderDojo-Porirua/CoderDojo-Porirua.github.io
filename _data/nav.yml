@@ -17,7 +17,7 @@
     - subtitle: "Code Combat"
       subhref: "/resources/codecombat"
     - subtitle: "Minecraft"
-      subhref: "#"
+      subhref: "/resources/minecraft/tynker"
       subsubcategories:
         - subsubtitle: "Tynker modding"
           subsubhref: "/resources/minecraft/tynker"
@@ -33,5 +33,7 @@
 - title: "About"
   href: "/about"
   subcategories:
+    - subtitle: "About us"
+      subhref: "/about"
     - subtitle: "Where are we?"
       subhref: "/about/where"
