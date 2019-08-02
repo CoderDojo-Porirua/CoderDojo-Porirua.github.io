@@ -1,6 +1,6 @@
 # CoderDojo-Porirua.github.io
 
-This is the website for Porirua CoderDojo.  Its built on Jekyll.
+This is the website for Porirua CoderDojo.  It's built on Jekyll.
 
 # Layout
 The overall pages layout is defined in the _layout folder.
