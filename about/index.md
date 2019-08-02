@@ -5,13 +5,13 @@ title: About
 
 # About CoderDojo Porirua
 
-> __What:__  
-> Free, fun programming sessions for kids  
-> __Where:__  
-> Porirua College  
-> __When:__  
-> Sundays, 3pm  
-> __How:__  
+> __What:__
+> Free, fun programming sessions for kids
+> __Where:__
+> Porirua College
+> __When:__
+> Sundays, 3pm
+> __How:__
 > Sign up on MeetUp
 
 ## What is CoderDojo?
@@ -23,7 +23,7 @@ Find out more about the global movement at coderdojo.com
 At CoderDojo Porirua, kids work through a range of self-paced online tutorials such as Hour of Code (for beginners) and Codecademy or Codecombat. There are plenty of adult mentors on hand to help them if they get stuck, and we also encourage kids to help each other. We get kids involved in fun digital projects such as building a computer from scratch, and run projects for more advanced kids using Arduinos, Raspberry Pis and other digital technology. As we evolve our curriculum will expand.
 
 ## When and where do we meet?
-Every second Sunday during term times, from 3 – 4.30pm, at [Porirua College](/about/were.html)
+Every second Sunday during term times, from 3 – 4.30pm, at [Porirua College](/about/where)
 
 ## Can I drop my child off at CoderDojo and pick them up later?
 No. A parent or caregiver must stay with kids for the whole session.

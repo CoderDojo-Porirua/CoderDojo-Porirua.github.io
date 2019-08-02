@@ -3,7 +3,7 @@ layout: default
 title: Tech Week 2017 - On the day
 ---
 
-# Welcome to Learn to code with CoderDojo at Whitireia!  
+# Welcome to Learn to code with CoderDojo at Whitireia!
 
 Full string
 ```
@@ -21,7 +21,6 @@ https://giant-ant.glitch.me/update?name=
 ```
 &lon=
 ```
-
 
 ## Wireless:
 
@@ -55,12 +54,8 @@ https://giant-ant.glitch.me/update?name=
 
 [Porirua City Council](http://pcc.govt.nz/) - Food & drink, and prizes
 
-
-
 [![Whitireia logo](http://whitireia.ac.nz/_layouts/whitireiaresources/core/images/logo.png)](http://www.whitireia.ac.nz/Pages/home.aspx)
 
 [Whitireia](http://www.whitireia.ac.nz/Pages/home.aspx) - Venue and computing resources
-
-
 
 [edit](https://github.com/CoderDojo-Porirua/CoderDojo-Porirua.github.io/edit/master/techweek2017-on-the-day.md)

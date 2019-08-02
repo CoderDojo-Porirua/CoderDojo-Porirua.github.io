@@ -3,179 +3,179 @@
 
 @import "{{ site.theme }}";
 header { 
-  padding-top: 15px;
-  padding-bottom: 15px;
-  h1 {
-    width: 650px;
-  }
-  .inner {
-    width: 610px;
-  }
+	padding-top: 15px;
+	padding-bottom: 15px;
+	h1 {
+		width: 650px;
+	}
+	.inner {
+		width: 610px;
+	}
 }
 
 blockquote {
-  font-size: 1.2em;
+	font-size: 1.2em;
 }
 
 .nav ul {
-  list-style: none;
-  background-color: #444;
-  text-align: center;
-  padding: 0;
-  margin: 0;
-  z-index: 10;
+	list-style: none;
+	background-color: #444;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	z-index: 10;
 }
 
 .nav li {
-  font-family: 'Oswald', sans-serif;
-  font-size: 1.2em;
-  line-height: 40px;
-  text-align: left;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.2em;
+	line-height: 40px;
+	text-align: left;
 }
 
 .nav a {
-  text-decoration: none;
-  color: #fff;
-  display: block;
-  padding-left: 15px;
-  border-bottom: 1px solid #888;
-  transition: .3s background-color;
+	text-decoration: none;
+	color: #fff;
+	display: block;
+	padding-left: 15px;
+	border-bottom: 1px solid #888;
+	transition: .3s background-color;
 }
 
 .nav a:hover {
-  background-color: #005f5f;
+	background-color: #005f5f;
 }
 
 .nav a.active {
-  background-color: #aaa;
-  color: #444;
-  cursor: default;
+	background-color: #aaa;
+	color: #444;
+	cursor: default;
 }
 
 /* Sub Menus */
 .nav li li {
-  font-size: .8em;
+	font-size: .8em;
 }
 
 /*******************************************
-   Style menu for larger screens
-   Using 650px (130px each * 5 items), but ems
-   or other values could be used depending on other factors
+	 Style menu for larger screens
+	 Using 650px (130px each * 5 items), but ems
+	 or other values could be used depending on other factors
 ********************************************/
 
 @media screen and (min-width: 700px) {
-  .nav li {
-    width: 140px;
-    border-bottom: none;
-    height: 50px;
-    line-height: 50px;
-    font-size: 1.4em;
-    display: inline-block;
-    margin-right: -4px;
-  }
+	.nav li {
+		width: 140px;
+		border-bottom: none;
+		height: 50px;
+		line-height: 50px;
+		font-size: 1.4em;
+		display: inline-block;
+		margin-right: -4px;
+	}
 
-  .nav a {
-    border-bottom: none;
-  }
+	.nav a {
+		border-bottom: none;
+	}
 
-  .nav > ul > li {
-    text-align: center;
-  }
+	.nav > ul > li {
+		text-align: center;
+	}
 
-  .nav > ul > li > a {
-    padding-left: 0;
-  }
+	.nav > ul > li > a {
+		padding-left: 0;
+	}
 
-  /* Sub Menus */
-  .nav li ul {
-    position: absolute;
-    display: none;
-    width: inherit;
-  }
+	/* Sub Menus */
+	.nav li ul {
+		position: absolute;
+		display: none;
+		width: inherit;
+	}
 
-  .nav li:hover ul {
-    display: block;
-  }
+	.nav li:hover ul {
+		display: block;
+	}
 
-  .nav li ul li {
-    display: block;
-  }
+	.nav li ul li {
+		display: block;
+	}
 }
 
 #main_nav {
-  display: flex;
-  flex-direction: row;     /* make main axis horizontal (default setting) */
-  justify-content: center; /* center items horizontally, in this case */
-  align-items: center;     /* center items vertically, in this case */
-  background-color: #444;
-  
-  ul {  
-    float: left;
-    -webkit-transition: .5s;
-    transition: .5s;
-    z-index: 10;
-    margin: 0;
-    padding: 0;
-  }
+	display: flex;
+	flex-direction: row;		 /* make main axis horizontal (default setting) */
+	justify-content: center; /* center items horizontally, in this case */
+	align-items: center;		 /* center items vertically, in this case */
+	background-color: #444;
 	
-  li {
-    font-family: 'Oswald', sans-serif;
-    font-size: 1.2em;
-    line-height: 40px;
-    float: left;
-    position: relative;
-    width: 150px;
-    list-style: none;
-    -webkit-transition: .5s;
-    transition: .5s;
-    text-align: center;
-  }
+	ul {	
+		float: left;
+		-webkit-transition: .5s;
+		transition: .5s;
+		z-index: 10;
+		margin: 0;
+		padding: 0;
+	}
+	
+	li {
+		font-family: 'Oswald', sans-serif;
+		font-size: 1.2em;
+		line-height: 40px;
+		float: left;
+		position: relative;
+		width: 150px;
+		list-style: none;
+		-webkit-transition: .5s;
+		transition: .5s;
+		text-align: center;
+	}
 
-  a {
-    display: block;
-    text-decoration: none;
-    padding: 5px 15px;
-    color: #fff;
-  }
+	a {
+		display: block;
+		text-decoration: none;
+		padding: 5px 15px;
+		color: #fff;
+	}
 
-  a.active {
-    background-color: #aaa;
-    color: #444;
-    cursor: default;
-  }
+	a.active {
+		background-color: #aaa;
+		color: #444;
+		cursor: default;
+	}
 
-  ul ul {
-    position: absolute;
-    left: 0;
-    top: 100%;
-    visibility: hidden;
-    opacity: 0;
-  }
-  
-  ul ul li {
-    font-size: 0.9em;
-    text-align: left;
-  }
+	ul ul {
+		position: absolute;
+		left: 0;
+		top: 100%;
+		visibility: hidden;
+		opacity: 0;
+	}
+	
+	ul ul li {
+		font-size: 0.9em;
+		text-align: left;
+	}
 
-  ul ul ul {
-    left: 100%;
-    top: 0;
-  }
+	ul ul ul {
+		left: 100%;
+		top: 0;
+	}
 
-  li:hover, li:hover li {
-    background-color: #005f5f;
-  }
+	li:hover, li:hover li {
+		background-color: #005f5f;
+	}
 
-  li li:hover, li li:hover li {
-    background: #bbb;
-  }
+	li li:hover, li li:hover li {
+		background: #bbb;
+	}
 
-  li li li:hover {
-    background: #999;
-  }
+	li li li:hover {
+		background: #999;
+	}
 
-  li:hover > ul {
-    visibility: visible;
-    opacity: 1;
-  }
+	li:hover > ul {
+		visibility: visible;
+		opacity: 1;
+	}
 }

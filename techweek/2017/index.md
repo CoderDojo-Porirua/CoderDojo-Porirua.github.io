@@ -4,9 +4,9 @@ title: Tech Week 2017
 ---
 
 # What's your Superpower? 
-## Learn to code with CoderDojo at Whitireia!  
+## Learn to code with CoderDojo at Whitireia!
 
-![Superpower](resources/images/CoderDojo_superpower_teenager.png)  
+![Superpower](/assets/images/CoderDojo_superpower_teenager.png)
 
 Interested in coding, but not sure how to tell an Android from an Arduino? Keen to get started with hacking, but unsure where to start? Then our **free 2 hour introduction to Coding** sessions are for you!
 
@@ -39,8 +39,8 @@ We'll bring:
 ## Location:
 
 E Block Whitireia Main Campus Wineera Drive Elsdon
-[![Map](resources/images/Map.png)](resources/images/Map.png)
-[(Click for larger copy)](resources/images/Map.png)
+[![Map](/assets/images/Map.png)](/assets/images/Map.png)
+[(Click for larger copy)](/assets/images/Map.png)
 
 ([Campus map](http://www.whitireia.ac.nz/about/Documents/Porirua_Campus_Map_2013.pdf))
 
