@@ -27,6 +27,8 @@
       subhref: "/resources/hackthissite"
     - subtitle: "App Inventor"
       subhref: "/resources/appinventor"
+    - subtitle: "Asteroids"
+      subhref: "/resources/asteroids"
     - subtitle: "Useful URLs"
       subhref: "/resources/urls"
 
