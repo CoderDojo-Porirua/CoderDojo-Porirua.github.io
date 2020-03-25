@@ -7,7 +7,7 @@ title: MIT App Inventor
 
 The site allows you to create an app in your browser using coding blocks, and then upload that to a phone and watch it run.
 
-There is a guide to [getting started here](http://appinventor.mit.edu/explore/get-started.html), and [tutorial projects here](http://appinventor.mit.edu/explore/ai2/tutorials.html)
+There is a guide to [getting started here](http://appinventor.mit.edu/explore/get-started.html), and [tutorial projects here](http://appinventor.mit.edu/explore/ai2/tutorials.html) and [here](https://projects.raspberrypi.org/en/coderdojo/app-inventor-for-social-enterprise).
 
 ## Project Idea
 

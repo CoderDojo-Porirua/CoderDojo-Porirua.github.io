@@ -10,7 +10,7 @@ Scratch is a great way to try out programming using blocks (like code.org), and 
 ## Resources
 There are some great mini-projects to try out at:
 * [Code Club](https://codeclubprojects.org/en-GB/scratch/)
-* [CoderDojo](http://kata.coderdojo.com/wiki/Scratch_Path)
+* [CoderDojo](https://projects.raspberrypi.org/en/coderdojo)
 
 We have a selection of these courses/projects printed out to try, if you can't see them just ask one of the mentors.
 
